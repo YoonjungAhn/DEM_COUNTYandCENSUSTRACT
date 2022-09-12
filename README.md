@@ -8,5 +8,5 @@ calculating mean elevation at county and census tract level
 * stat fips code : https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696
 
 ## GEEMAP package source and tutorial 
-*https://courses.geemap.org/geemap_intro/11_analysis/
-*https://github.com/giswqs/geemap
+* https://courses.geemap.org/geemap_intro/11_analysis/
+* https://github.com/giswqs/geemap
