@@ -1,4 +1,4 @@
-# Digital elevation county and census tract level
+# Elevation (county and census tract levels)
 
 calculating mean elevation at county and census tract level 
 
