@@ -1,6 +1,6 @@
 # Elevation (county and census tract levels)
 
-calculating mean elevation at county and census tract level 
+Mean elevation at county and census tract levels
 
 
 ## Data sources
